@@ -228,3 +228,6 @@ while roll_again == "yes" or roll_again == "Y" or roll_again == "Yes" or roll_ag
 
 # if bet < 0 or > coins:
 #    print("invalid")
+
+#test 1
+#test 2
